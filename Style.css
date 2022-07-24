@@ -1,0 +1,81 @@
+@media screen and(max-width:1700px){
+ body{
+ background-position:50%;
+
+
+ }
+
+}
+@media screen and(max-width:1200px){
+  header{
+    padding: 40px;
+  }
+  .card{
+    background-position:-50px;
+  }
+  .card1{
+    background-position: -100px;
+
+  }
+  
+  
+  
+
+    
+  }   
+
+body{
+    height: 1000px;
+  background-image: url("https://w0.peakpx.com/wallpaper/32/562/HD-wallpaper-wooden-dark-2014-texture-wood-blue.jpg");
+background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+  padding: 40px;
+}
+.card{
+    
+margin: 10px;
+border-radius: 20px;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210907/pngtree-wall-rock-texture-grain-dark-gray-background-image_780289.jpg");
+background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+  text-align: center;
+padding: 40px;
+}
+.card1{
+
+    margin: 10px;
+    border: 2px solid rgb(12, 12, 12);
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px rgb(7, 7, 7);
+background: rgb(36, 204, 204);
+background: linear-gradient(to right ,rgb(82, 82, 90),rgb(36, 204, 204));
+text-align: center;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+padding: 40px;
+}
+.grid{
+ width: 100%;
+ display: grid;
+ grid-template-columns:40% 30% 30%;
+
+  
+}
+.ejemplo1{
+  background:rgb(63, 63, 85) ;
+  color: aliceblue;
+  border: 2px solid rgb(65, 128, 128);
+}
+.ejemplo2{
+  background:rgb(63, 63, 85) ;
+  color: aliceblue;
+  border: 2px solid rgb(65, 128, 128);
+}
+.ejemplo3{
+  background:rgb(63, 63, 85) ;
+  color: aliceblue;
+  border: 2px solid rgb(65, 128, 128);
+}
